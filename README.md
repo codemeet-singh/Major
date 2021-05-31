@@ -29,7 +29,7 @@ Therefore, in order for the person to read any printed book with ease we have de
 
 /Text_Recognition/cnn_model/digit_classifier.h5 is the trained model that you can directly use without having to train the model
 
-/Text_Recognition/main.py is the code for the pygame window. The left hand size of the pygame window will take input and the right hand side will display the output. 
+/Text_Recognition/main.py is the code for the pygame window. The left hand side of the pygame window will take input and the right hand side will display the output. 
                           Use right click to clear the screen.
                           The output is also stored as text in /Text_Recognition.
                           
